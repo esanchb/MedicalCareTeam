@@ -1,0 +1,53 @@
+#ifndef _SYSTEM_CONFIG
+#define _SYSTEM_CONFIG
+
+
+#include "derivative.h"
+#include "types.h"
+
+#define DEBUG_MODE				FALSE
+#define DSC_BOARD_CONNECTED
+
+#define BUS_FREQ         ((UINT32)(24000000))
+/*
+#define	GLU_BOARD_DETECT_PIN_PE		PTBPE_PTBPE2
+#define	BPM_BOARD_DETECT_PIN_PE
+#define	ECG_BOARD_DETECT_PIN_PE
+#define	SPO2_BOARD_DETECT_PIN_PE
+#define	SPR_BOARD_DETECT_PIN_PE
+
+
+#define	GLU_BOARD_DETECT_PIN_DD		PTBDD_PTBDD2
+#define	BPM_BOARD_DETECT_PIN_DD
+#define	ECG_BOARD_DETECT_PIN_DD
+#define	SPO2_BOARD_DETECT_PIN_DD
+#define	SPR_BOARD_DETECT_PIN_DD
+
+
+#define	GLU_BOARD_DETECT_PIN		PTBD_PTBD2
+#define	BPM_BOARD_DETECT_PIN
+#define	ECG_BOARD_DETECT_PIN
+#define	SPO2_BOARD_DETECT_PIN
+#define	SPR_BOARD_DETECT_PIN
+
+
+
+#define GLU_BOARD_IS_CONNECTED		TRUE
+#define BPM_BOARD_IS_CONNECTED
+#define ECG_BOARD_IS_CONNECTED		TRUE
+#define SPO2_BOARD_IS_CONNECTED
+#define SPR_BOARD_IS_CONNECTED
+
+*/
+/* Change when PIN is known */
+
+#define AFE_ENABLE_PIN				//PTED_PTED7
+	
+#define	AFE_ENABLE_PIN_INIT()		        asm ("NOP")//AFE_ENABLE_PIN = 1; PTEDD_PTEDD7 = 1
+#define AFE_ENABLE()				asm ("NOP")//AFE_ENABLE_PIN = 0
+#define AFE_DISABLE()				asm ("NOP")//AFE_ENABLE_PIN = 1
+
+
+
+
+#endif //_SYSTEM_CONFIG
