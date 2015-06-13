@@ -1,0 +1,10 @@
+Links 
+
+Glucometro
+http://cache.freescale.com/files/microcontrollers/doc/app_note/AN4364.pdf?fasp=1&WT_TYPE=Application%20Notes&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf
+
+SPO2
+http://cache.freescale.com/files/32bit/doc/app_note/AN4327.pdf?fasp=1&WT_TYPE=Application%20Notes&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf
+
+Electrocardiograma
+http://cache.freescale.com/files/analog/doc/app_note/AN4323.pdf?fasp=1&WT_TYPE=Application%20Notes&WT_VENDOR=FREESCALE&WT_FILE_FORMAT=pdf&WT_ASSET=Documentation&fileExt=.pdf
