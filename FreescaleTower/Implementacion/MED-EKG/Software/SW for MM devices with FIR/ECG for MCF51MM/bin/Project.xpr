@@ -1,0 +1,5 @@
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "au16ADC_Buffer"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "au16EcgFilteredData"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "u32FilterResult"
+Data:1 < ADDXPR ONLY_ADD_IF_NEW "ekg.c::au16EcgFilteredData[0]"
+Data:2 < ADDXPR ONLY_ADD_IF_NEW "u8IICV1DriverStatus"

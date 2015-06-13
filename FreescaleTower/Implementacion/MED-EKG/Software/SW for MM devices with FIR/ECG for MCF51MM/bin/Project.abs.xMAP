@@ -1,0 +1,882 @@
+
+
+
+# .abs_vector_0
+  00000000 00000004 .abs    vector_0	(exceptions.c)
+
+# .abs_vector_1
+  00000004 00000004 .abs    vector_1	(exceptions.c)
+
+# .abs_vector_2
+  00000008 00000004 .abs    vector_2	(exceptions.c)
+
+# .abs_vector_3
+  0000000C 00000004 .abs    vector_3	(exceptions.c)
+
+# .abs_vector_4
+  00000010 00000004 .abs    vector_4	(exceptions.c)
+
+# .abs_vector_5
+  00000014 00000004 .abs    vector_5	(exceptions.c)
+
+# .abs_vector_6
+  00000018 00000004 .abs    vector_6	(exceptions.c)
+
+# .abs_vector_7
+  0000001C 00000004 .abs    vector_7	(exceptions.c)
+
+# .abs_vector_8
+  00000020 00000004 .abs    vector_8	(exceptions.c)
+
+# .abs_vector_9
+  00000024 00000004 .abs    vector_9	(exceptions.c)
+
+# .abs_vector_10
+  00000028 00000004 .abs    vector_10	(exceptions.c)
+
+# .abs_vector_11
+  0000002C 00000004 .abs    vector_11	(exceptions.c)
+
+# .abs_vector_12
+  00000030 00000004 .abs    vector_12	(exceptions.c)
+
+# .abs_vector_13
+  00000034 00000004 .abs    vector_13	(exceptions.c)
+
+# .abs_vector_14
+  00000038 00000004 .abs    vector_14	(exceptions.c)
+
+# .abs_vector_15
+  0000003C 00000004 .abs    vector_15	(exceptions.c)
+
+# .abs_vector_16
+  00000040 00000004 .abs    vector_16	(exceptions.c)
+
+# .abs_vector_17
+  00000044 00000004 .abs    vector_17	(exceptions.c)
+
+# .abs_vector_18
+  00000048 00000004 .abs    vector_18	(exceptions.c)
+
+# .abs_vector_19
+  0000004C 00000004 .abs    vector_19	(exceptions.c)
+
+# .abs_vector_20
+  00000050 00000004 .abs    vector_20	(exceptions.c)
+
+# .abs_vector_21
+  00000054 00000004 .abs    vector_21	(exceptions.c)
+
+# .abs_vector_22
+  00000058 00000004 .abs    vector_22	(exceptions.c)
+
+# .abs_vector_23
+  0000005C 00000004 .abs    vector_23	(exceptions.c)
+
+# .abs_vector_24
+  00000060 00000004 .abs    vector_24	(exceptions.c)
+
+# .abs_vector_25
+  00000064 00000004 .abs    vector_25	(exceptions.c)
+
+# .abs_vector_26
+  00000068 00000004 .abs    vector_26	(exceptions.c)
+
+# .abs_vector_27
+  0000006C 00000004 .abs    vector_27	(exceptions.c)
+
+# .abs_vector_28
+  00000070 00000004 .abs    vector_28	(exceptions.c)
+
+# .abs_vector_29
+  00000074 00000004 .abs    vector_29	(exceptions.c)
+
+# .abs_vector_30
+  00000078 00000004 .abs    vector_30	(exceptions.c)
+
+# .abs_vector_31
+  0000007C 00000004 .abs    vector_31	(exceptions.c)
+
+# .abs_vector_32
+  00000080 00000004 .abs    vector_32	(exceptions.c)
+
+# .abs_vector_33
+  00000084 00000004 .abs    vector_33	(exceptions.c)
+
+# .abs_vector_34
+  00000088 00000004 .abs    vector_34	(exceptions.c)
+
+# .abs_vector_35
+  0000008C 00000004 .abs    vector_35	(exceptions.c)
+
+# .abs_vector_36
+  00000090 00000004 .abs    vector_36	(exceptions.c)
+
+# .abs_vector_37
+  00000094 00000004 .abs    vector_37	(exceptions.c)
+
+# .abs_vector_38
+  00000098 00000004 .abs    vector_38	(exceptions.c)
+
+# .abs_vector_39
+  0000009C 00000004 .abs    vector_39	(exceptions.c)
+
+# .abs_vector_40
+  000000A0 00000004 .abs    vector_40	(exceptions.c)
+
+# .abs_vector_41
+  000000A4 00000004 .abs    vector_41	(exceptions.c)
+
+# .abs_vector_42
+  000000A8 00000004 .abs    vector_42	(exceptions.c)
+
+# .abs_vector_43
+  000000AC 00000004 .abs    vector_43	(exceptions.c)
+
+# .abs_vector_44
+  000000B0 00000004 .abs    vector_44	(exceptions.c)
+
+# .abs_vector_45
+  000000B4 00000004 .abs    vector_45	(exceptions.c)
+
+# .abs_vector_46
+  000000B8 00000004 .abs    vector_46	(exceptions.c)
+
+# .abs_vector_47
+  000000BC 00000004 .abs    vector_47	(exceptions.c)
+
+# .abs_vector_48
+  000000C0 00000004 .abs    vector_48	(exceptions.c)
+
+# .abs_vector_49
+  000000C4 00000004 .abs    vector_49	(exceptions.c)
+
+# .abs_vector_50
+  000000C8 00000004 .abs    vector_50	(exceptions.c)
+
+# .abs_vector_51
+  000000CC 00000004 .abs    vector_51	(exceptions.c)
+
+# .abs_vector_52
+  000000D0 00000004 .abs    vector_52	(exceptions.c)
+
+# .abs_vector_53
+  000000D4 00000004 .abs    vector_53	(exceptions.c)
+
+# .abs_vector_54
+  000000D8 00000004 .abs    vector_54	(exceptions.c)
+
+# .abs_vector_55
+  000000DC 00000004 .abs    vector_55	(exceptions.c)
+
+# .abs_vector_56
+  000000E0 00000004 .abs    vector_56	(exceptions.c)
+
+# .abs_vector_57
+  000000E4 00000004 .abs    vector_57	(exceptions.c)
+
+# .abs_vector_58
+  000000E8 00000004 .abs    vector_58	(exceptions.c)
+
+# .abs_vector_59
+  000000EC 00000004 .abs    vector_59	(exceptions.c)
+
+# .abs_vector_60
+  000000F0 00000004 .abs    vector_60	(exceptions.c)
+
+# .abs_vector_61
+  000000F4 00000004 .abs    vector_61	(exceptions.c)
+
+# .abs_vector_62
+  000000F8 00000004 .abs    vector_62	(exceptions.c)
+
+# .abs_vector_63
+  000000FC 00000004 .abs    vector_63	(exceptions.c)
+
+# .abs_vector_64
+  00000100 00000004 .abs    vector_64	(main.c)
+
+# .abs_vector_65
+  00000104 00000004 .abs    vector_65	(exceptions.c)
+
+# .abs_vector_66
+  00000108 00000004 .abs    vector_66	(exceptions.c)
+
+# .abs_vector_67
+  0000010C 00000004 .abs    vector_67	(exceptions.c)
+
+# .abs_vector_68
+  00000110 00000004 .abs    vector_68	(exceptions.c)
+
+# .abs_vector_69
+  00000114 00000004 .abs    vector_69	(exceptions.c)
+
+# .abs_vector_70
+  00000118 00000004 .abs    vector_70	(exceptions.c)
+
+# .abs_vector_71
+  0000011C 00000004 .abs    vector_71	(exceptions.c)
+
+# .abs_vector_72
+  00000120 00000004 .abs    vector_72	(usb_dci.c)
+
+# .abs_vector_73
+  00000124 00000004 .abs    vector_73	(MM_Timers.c)
+
+# .abs_vector_74
+  00000128 00000004 .abs    vector_74	(exceptions.c)
+
+# .abs_vector_75
+  0000012C 00000004 .abs    vector_75	(exceptions.c)
+
+# .abs_vector_76
+  00000130 00000004 .abs    vector_76	(exceptions.c)
+
+# .abs_vector_77
+  00000134 00000004 .abs    vector_77	(exceptions.c)
+
+# .abs_vector_78
+  00000138 00000004 .abs    vector_78	(exceptions.c)
+
+# .abs_vector_79
+  0000013C 00000004 .abs    vector_79	(exceptions.c)
+
+# .abs_vector_80
+  00000140 00000004 .abs    vector_80	(tpm.c)
+
+# .abs_vector_81
+  00000144 00000004 .abs    vector_81	(exceptions.c)
+
+# .abs_vector_82
+  00000148 00000004 .abs    vector_82	(exceptions.c)
+
+# .abs_vector_83
+  0000014C 00000004 .abs    vector_83	(exceptions.c)
+
+# .abs_vector_84
+  00000150 00000004 .abs    vector_84	(tpm.c)
+
+# .abs_vector_85
+  00000154 00000004 .abs    vector_85	(IICV1Driver.c)
+
+# .abs_vector_86
+  00000158 00000004 .abs    vector_86	(exceptions.c)
+
+# .abs_vector_87
+  0000015C 00000004 .abs    vector_87	(exceptions.c)
+
+# .abs_vector_88
+  00000160 00000004 .abs    vector_88	(exceptions.c)
+
+# .abs_vector_89
+  00000164 00000004 .abs    vector_89	(exceptions.c)
+
+# .abs_vector_90
+  00000168 00000004 .abs    vector_90	(exceptions.c)
+
+# .abs_vector_91
+  0000016C 00000004 .abs    vector_91	(exceptions.c)
+
+# .abs_vector_92
+  00000170 00000004 .abs    vector_92	(exceptions.c)
+
+# .abs_vector_93
+  00000174 00000004 .abs    vector_93	(exceptions.c)
+
+# .abs_vector_94
+  00000178 00000004 .abs    vector_94	(exceptions.c)
+
+# .abs_vector_95
+  0000017C 00000004 .abs    vector_95	(exceptions.c)
+
+# .abs_vector_96
+  00000180 00000004 .abs    vector_96	(main.c)
+
+# .abs_vector_97
+  00000184 00000004 .abs    vector_97	(exceptions.c)
+
+# .abs_vector_98
+  00000188 00000004 .abs    vector_98	(exceptions.c)
+
+# .abs_vector_99
+  0000018C 00000004 .abs    vector_99	(exceptions.c)
+
+# .abs_vector_100
+  00000190 00000004 .abs    vector_100	(exceptions.c)
+
+# .abs_vector_101
+  00000194 00000004 .abs    vector_101	(exceptions.c)
+
+# .abs_vector_102
+  00000198 00000004 .abs    vector_102	(exceptions.c)
+
+# .abs_vector_103
+  0000019C 00000004 .abs    vector_103	(exceptions.c)
+
+# .abs_vector_104
+  000001A0 00000004 .abs    vector_104	(exceptions.c)
+
+# .abs_vector_105
+  000001A4 00000004 .abs    vector_105	(exceptions.c)
+
+# .abs_vector_106
+  000001A8 00000004 .abs    vector_106	(exceptions.c)
+
+# .abs_vector_107
+  000001AC 00000004 .abs    vector_107	(exceptions.c)
+
+# .abs_vector_108
+  000001B0 00000004 .abs    vector_108	(exceptions.c)
+
+# .abs_vector_109
+  000001B4 00000004 .abs    vector_109	(exceptions.c)
+
+# .abs_vector_110
+  000001B8 00000004 .abs    vector_110	(exceptions.c)
+
+# .abs_vector_111
+  000001BC 00000004 .abs    vector_111	(exceptions.c)
+
+# .abs_vector_112
+  000001C0 00000004 .abs    vector_112	(exceptions.c)
+
+# .abs_vector_113
+  000001C4 00000004 .abs    vector_113	(exceptions.c)
+
+# .abs_vector_114
+  000001C8 00000004 .abs    vector_114	(exceptions.c)
+
+# .abs_checksum_bypass
+  0000040A 00000001 .abs    checksum_bypass	(main.c)
+
+# .abs_sec
+  0000040F 00000001 .abs    sec	(main.c)
+#>00000400          ___heap_size (linker command file)
+#>00000400          ___stack_size (linker command file)
+#>00800000          ___RAM_ADDRESS (linker command file)
+#>00008000          ___RAM_SIZE (linker command file)
+#>00000000          ___FLASH_ADDRESS (linker command file)
+#>00040000          ___FLASH_SIZE (linker command file)
+
+# .userram
+
+# .code
+
+# .text
+  00000410 00000012 .text   TimerQInitialize	(tpm.c)
+  00000422 00000070 .text   AddTimerQ	(tpm.c)
+  00000492 00000034 .text   RemoveTimerQ	(tpm.c)
+  000004C6 00000058 .text   TimerInit	(tpm.c)
+  0000051E 00000008 .text   EnableTimerInterrupt	(tpm.c)
+  00000526 00000008 .text   DisableTimerInterrupt	(tpm.c)
+  0000052E 00000016 .text   Timer_ISR	(tpm.c)
+  00000544 00000016 .text   Timer1_ISR	(tpm.c)
+  0000055A 00000050 .text   TimerHandler	(tpm.c)
+  000005AA 00000056 .text   main	(main.c)
+  00000600 0000000E .text   Init_Sys	(main.c)
+  0000060E 0000003E .text   Mcu_Init	(main.c)
+  0000064C 00000074 .text   MCG_Init	(main.c)
+  000006C0 00000032 .text   Kbi_Init	(main.c)
+  000006F2 00000012 .text   Kbi_ISR	(main.c)
+  00000704 0000001E .text   KbiDebounceTimerCallback	(main.c)
+  00000722 00000012 .text   IRQ_ISR	(main.c)
+  00000734 00000026 .text   vfnIICV1Init	(IICV1Driver.c)
+  0000075A 00000020 .text   vfnIICV1Write	(IICV1Driver.c)
+  0000077A 00000020 .text   vfnIICV1Read	(IICV1Driver.c)
+  0000079A 0000002E .text   vfnIICV1RandomRead	(IICV1Driver.c)
+  000007C8 0000004A .text   vfnIICV1Interrupt	(IICV1Driver.c)
+  00000812 00000002 .text   vfnIICV1StateIdle	(IICV1Driver.c)
+  00000814 00000030 .text   vfnIICV1StateStartW	(IICV1Driver.c)
+  00000844 00000084 .text   vfnIICV1StateStartR	(IICV1Driver.c)
+  000008C8 0000009A .text   vfnIICV1StateDataW	(IICV1Driver.c)
+  00000962 0000005E .text   vfnIICV1StateDataR	(IICV1Driver.c)
+  000009C0 00000090 .text   vfnIICV1StateRestart	(IICV1Driver.c)
+  00000A50 00000056 .text   vfnIICV1StateStop	(IICV1Driver.c)
+  00000AA6 000000C6 .text   USB_Desc_Get_Descriptor	(usb_descriptor.c)
+  00000B6C 0000001A .text   USB_Desc_Get_Interface	(usb_descriptor.c)
+  00000B86 00000018 .text   USB_Desc_Set_Interface	(usb_descriptor.c)
+  00000B9E 0000002C .text   USB_Desc_Valid_Configation	(usb_descriptor.c)
+  00000BCA 00000004 .text   USB_Desc_Remote_Wakeup	(usb_descriptor.c)
+  00000BCE 00000008 .text   USB_Desc_Get_Endpoints	(usb_descriptor.c)
+  00000BD6 00000020 .text   USB_Desc_Get_Line_Coding	(usb_descriptor.c)
+  00000BF6 00000046 .text   USB_Desc_Set_Line_Coding	(usb_descriptor.c)
+  00000C3C 0000001A .text   USB_Desc_Get_Abstract_State	(usb_descriptor.c)
+  00000C56 0000001A .text   USB_Desc_Get_Country_Setting	(usb_descriptor.c)
+  00000C70 00000046 .text   USB_Desc_Set_Abstract_State	(usb_descriptor.c)
+  00000CB6 00000046 .text   USB_Desc_Set_Country_Setting	(usb_descriptor.c)
+  00000CFC 00000014 .text   USB_Framework_Init	(usb_framework.c)
+  00000D10 000001D0 .text   USB_Control_Service	(usb_framework.c)
+  00000EE0 0000005C .text   USB_Control_Service_Handler	(usb_framework.c)
+  00000F3C 000000B6 .text   USB_Strd_Req_Get_Status	(usb_framework.c)
+  00000FF2 000000D4 .text   USB_Strd_Req_Feature	(usb_framework.c)
+  000010C6 00000020 .text   USB_Strd_Req_Set_Address	(usb_framework.c)
+  000010E6 0000002A .text   USB_Strd_Req_Assign_Address	(usb_framework.c)
+  00001110 00000040 .text   USB_Strd_Req_Get_Config	(usb_framework.c)
+  00001150 00000060 .text   USB_Strd_Req_Set_Config	(usb_framework.c)
+  000011B0 00000028 .text   USB_Strd_Req_Get_Interface	(usb_framework.c)
+  000011D8 00000028 .text   USB_Strd_Req_Set_Interface	(usb_framework.c)
+  00001200 00000020 .text   USB_Strd_Req_Sync_Frame	(usb_framework.c)
+  00001220 00000038 .text   USB_Strd_Req_Get_Descriptor	(usb_framework.c)
+  00001258 00000036 .text   opamp1_gp_mode	(OPAMP.c)
+  0000128E 00000008 .text   TRIAMP1C0_HighMode	(OPAMP.c)
+  00001296 00000008 .text   TRIAMP2C0_HighMode	(OPAMP.c)
+  0000129E 0000003A .text   opamp2_noninverting_mode	(OPAMP.c)
+  000012D8 00000016 .text   TimerEcgDscReadDsc_Event	(EcgDsc.c)
+  000012EE 00000038 .text   CheckWriteStatus	(EcgDsc.c)
+  00001326 00000038 .text   CheckReadStatus	(EcgDsc.c)
+  0000135E 00000002 .text   StateIdle	(EcgDsc.c)
+  00001360 00000074 .text   StateWritingStartCommand	(EcgDsc.c)
+  000013D4 00000070 .text   StateWritingStopCommand	(EcgDsc.c)
+  00001444 0000027E .text   StateReadingData	(EcgDsc.c)
+  000016C2 00000008 .text   TimerWaitForDsc_Event	(EcgDsc.c)
+  000016CA 00000106 .text   StateReadingHeartRate	(EcgDsc.c)
+  000017D0 00000020 .text   EcgDsc_Init	(EcgDsc.c)
+  000017F0 0000004C .text   EcgDsc_PeriodicTask	(EcgDsc.c)
+  0000183C 00000002 .text   StateIdle	(Ecg.c)
+  0000183E 000001BE .text   PerformControlAlgorithm	(Ecg.c)
+  000019FC 00000150 .text   StateMeasuring	(Ecg.c)
+  00001B4C 00000056 .text   SendGraphDataToPc	(Ecg.c)
+  00001BA2 00000006 .text   TimerSampleAdc_Event	(Ecg.c)
+  00001BA8 0000000E .text   Ecg_Init	(Ecg.c)
+  00001BB6 0000000E .text   Ecg_DiagnosticModeStopMeasurement	(Ecg.c)
+  00001BC4 0000003C .text   Ecg_PeriodicTask	(Ecg.c)
+  00001C00 000000C6 .text   CalculateHeartRateMedian	(Ecg.c)
+  00001CC6 00000036 .text   ADC_Init16b	(ADC.c)
+  00001CFC 00000032 .text   ADC_Read16b	(ADC.c)
+  00001D2E 00000060 .text   MovingAverage_PushNewValue16b	(AverageFilter.c)
+  00001D8E 00000036 .text   DAC12_Vin_SWtrig	(DAC.c)
+  00001DC4 00000096 .text   TestApp_Init	(ekg.c)
+  00001E5A 00000108 .text   TestApp_Task	(ekg.c)
+  00001F62 0000003C .text   Virtual_Com_Recv_Serial_Data	(ekg.c)
+  00001F9E 00000028 .text   Virtual_Com_Send_Serial_Data	(ekg.c)
+  00001FC6 0000009E .text   USB_App_Callback	(ekg.c)
+  00002064 00000022 .text   USB_Notify_Callback	(ekg.c)
+  00002086 00000096 .text   EcgDiagnosticModeStartMeasurementReq	(ekg.c)
+  0000211C 00000060 .text   EcgDiagnosticModeStopMeasurementReq	(ekg.c)
+  0000217C 0000010C .text   EcgDiagnosticModeNewDataReadyInd	(ekg.c)
+  00002288 00000020 .text   USB_Suspend_Service	(usb_class.c)
+  000022A8 0000002A .text   USB_Resume_Service	(usb_class.c)
+  000022D2 0000001A .text   USB_Stall_Service	(usb_class.c)
+  000022EC 0000001C .text   USB_Sof_Service	(usb_class.c)
+  00002308 0000007A .text   USB_Reset_Service	(usb_class.c)
+  00002382 00000016 .text   USB_Error_Service	(usb_class.c)
+  00002398 0000008E .text   USB_Class_Init	(usb_class.c)
+  00002426 0000009E .text   USB_Class_Send_Data	(usb_class.c)
+  000024C4 00000002 .text   USB_Class_Periodic_Task	(usb_class.c)
+  000024C6 000000D0 .text   USB_Class_CDC_Service_Cic_Notify	(usb_cdc.c)
+  00002596 000000EA .text   USB_Class_CDC_Service_Dic_Bulk_In	(usb_cdc.c)
+  00002680 0000003E .text   USB_Class_CDC_Service_Dic_Bulk_Out	(usb_cdc.c)
+  000026BE 00000112 .text   USB_Class_CDC_Event	(usb_cdc.c)
+  000027D0 00000102 .text   USB_Other_Requests	(usb_cdc.c)
+  000028D2 000000BA .text   USB_Class_CDC_Init	(usb_cdc.c)
+  0000298C 00000124 .text   USB_Class_CDC_Send_Data	(usb_cdc.c)
+  00002AB0 00000008 .text   USB_Class_CDC_Pstn_Init	(usb_cdc_pstn.c)
+  00002AB8 0000001C .text   USB_Class_CDC_PSTN_Get_Line_Coding	(usb_cdc_pstn.c)
+  00002AD4 00000022 .text   USB_Class_CDC_PSTN_Set_Line_Coding	(usb_cdc_pstn.c)
+  00002AF6 000000A4 .text   USB_Class_CDC_PSTN_Set_Ctrl_Line_State	(usb_cdc_pstn.c)
+  00002B9A 00000012 .text   USB_Class_CDC_PSTN_Send_Break	(usb_cdc_pstn.c)
+  00002BAC 00000048 .text   USB_Class_CDC_PSTN_Get_Comm_Feature	(usb_cdc_pstn.c)
+  00002BF4 00000048 .text   USB_Class_CDC_PSTN_Set_Comm_Feature	(usb_cdc_pstn.c)
+  00002C3C 0000001A .text   USB_Class_CDC_PSTN_Send_Serial_State	(usb_cdc_pstn.c)
+  00002C56 0000003C .text   USB_Device_Init_Params	(usb_driver.c)
+  00002C92 00000038 .text   USB_Device_Init	(usb_driver.c)
+  00002CCA 0000002E .text   USB_Device_Init_EndPoint	(usb_driver.c)
+  00002CF8 00000032 .text   USB_Device_Deinit_EndPoint	(usb_driver.c)
+  00002D2A 00000046 .text   USB_Device_Get_Status	(usb_driver.c)
+  00002D70 000000AE .text   USB_Device_Set_Status	(usb_driver.c)
+  00002E1E 00000030 .text   USB_Device_Register_Service	(usb_driver.c)
+  00002E4E 00000034 .text   USB_Device_Call_Service	(usb_driver.c)
+  00002E82 00000060 .text   USB_Bus_Reset_Handler	(usb_dci.c)
+  00002EE2 00000026 .text   USB_DCI_Get_BDT_Index	(usb_dci.c)
+  00002F08 00000024 .text   USB_DCI_Validate_Param	(usb_dci.c)
+  00002F2C 000000A0 .text   USB_DCI_Prepare_Send_Data	(usb_dci.c)
+  00002FCC 000000A4 .text   USB_DCI_Init	(usb_dci.c)
+  00003070 0000024E .text   USB_DCI_Init_EndPoint	(usb_dci.c)
+  000032BE 0000006E .text   USB_Device_Cancel_Transfer	(usb_dci.c)
+  0000332C 00000082 .text   USB_DCI_Deinit_EndPoint	(usb_dci.c)
+  000033AE 00000062 .text   USB_Device_Stall_EndPoint	(usb_dci.c)
+  00003410 000000C2 .text   USB_Device_Unstall_EndPoint	(usb_dci.c)
+  000034D2 000001B8 .text   USB_Device_Recv_Data	(usb_dci.c)
+  0000368A 000000A4 .text   USB_Device_Send_Data	(usb_dci.c)
+  0000372E 00000012 .text   USB_Device_Set_Address	(usb_dci.c)
+  00003740 0000003E .text   USB_Device_Assert_Resume	(usb_dci.c)
+  0000377E 00000388 .text   USB_Bus_Token_Cpl_Handler	(usb_dci.c)
+  00003B06 000001BC .text   USB_ISR	(usb_dci.c)
+  00003CC2 0000000C .text   Clear_Mem	(usb_dci.c)
+  00003CCE 0000000C .text   usb_int_dis	(exceptions.c)
+  00003CDA 00000030 .text   usb_int_en	(exceptions.c)
+  00003D0A 000001BC .text   mcf_exception_handler	(exceptions.c)
+  00003EC6 00000020 .text   asm_exception_handler	(exceptions.c)
+  00003EE6 00000002 .text   __initialize_hardware	(startcf.c)
+  00003EE8 00000002 .text   __initialize_system	(startcf.c)
+  00003EEA 0000002A .text   __copy_rom_section	(startcf.c)
+  00003F14 00000034 .text   __copy_rom_sections_to_ram	(startcf.c)
+  00003F48 00000004 .text   _ExitProcess	(startcf.c)
+  00003F4C 000000AA .text   clear_mem	(startcf.c)
+  00003FF6 00000090 .text   _startup	(startcf.c)
+  00004086 00000002 .text   vfnEcgFirStateIdle	(EcgFir.c)
+  00004088 000001DA .text   vfnEcgFirStateMeasuring	(EcgFir.c)
+  00004262 00000012 .text   vfnEcgFirPeriodicTask	(EcgFir.c)
+  00004274 0000001A .text   EcgFir_DiagnosticModeStartMeasurement	(EcgFir.c)
+  0000428E 0000000A .text   EcgFir_DiagnosticModeStopMeasurement	(EcgFir.c)
+  00004298 00000074 .text   u32MAC	(EcgFir.c)
+  0000430C 00000016 .text   vfnTPM1_CH0_Init	(MM_Timers.c)
+  00004322 00000006 .text   vfnTPM1_CH0_Deinit	(MM_Timers.c)
+  00004328 00000038 .text   TPM1_CH0_ISR	(MM_Timers.c)
+  00004360 0000005A .text   HR_periodic_task	(HeartRate.c)
+  000043BA 00000086 .text   HR_calculation	(HeartRate.c)
+  00004440 000000B2 .text   AGC_task	(HeartRate.c)
+  000044F2 0000002E .text   SamplingCheck	(HeartRate.c)
+  00004520 00000012 .text   memcpy	(libc.a mem.o          )
+  00004532 00000010 .text   memset	(libc.a mem.o          )
+  00004544 00000088 .text   __fill_mem	(libc.a mem_funcs.o    )
+  000045CC 0000001C .text   __call_static_initializers	(librt.a cf_staticinitia)
+  000045E8 0000002C .text   __destroy_global_chain	(librt.a cf_staticinitia)
+  00004614 0000003E .text   __ldivu__	(librt.a cf_runtime.o   )
+  00004652 00000034 .text   __ldiv__	(librt.a cf_runtime.o   )
+  00004686 0000003C .text   __lmodu__	(librt.a cf_runtime.o   )
+  000046C2 00000034 .text   __lmod__	(librt.a cf_runtime.o   )
+  000046F6 0000000C .text   _ewl_exit	(librt.a abort_exit.o   )
+  00004704 0000001C .rodata vfnapIICV1Driver	(IICV1Driver.c)
+  00004720 00000010 .rodata usb_desc_ep	(usb_descriptor.c)
+  00004730 00000012 .rodata g_device_descriptor	(usb_descriptor.c)
+  00004742 00000043 .rodata g_config_descriptor	(usb_descriptor.c)
+  00004785 00000004 .rodata USB_STR_0	(usb_descriptor.c)
+  00004789 0000003A .rodata USB_STR_1	(usb_descriptor.c)
+  000047C3 0000001E .rodata USB_STR_2	(usb_descriptor.c)
+  000047E1 00000022 .rodata USB_STR_n	(usb_descriptor.c)
+  00004804 00000010 .rodata g_std_desc_size	(usb_descriptor.c)
+  00004814 00000020 .rodata g_std_descriptors	(usb_descriptor.c)
+  00004834 00000004 .rodata g_string_desc_size	(usb_descriptor.c)
+  00004838 00000010 .rodata g_string_descriptors	(usb_descriptor.c)
+  00004848 00000014 .rodata g_languages	(usb_descriptor.c)
+  0000485C 00000002 .rodata g_valid_config_values	(usb_descriptor.c)
+  0000485E 00000027 .rodata g_validate_request	(usb_framework.c)
+  00004888 00000034 .rodata g_standard_request	(usb_framework.c)
+  000048BC 00000001 .rodata CmdEcgDiagnosticModeStartMeasurement	(EcgDsc.c)
+  000048BD 00000001 .rodata CmdEcgDiagnosticModeStopMeasurement	(EcgDsc.c)
+  000048BE 00000001 .rodata CmdEcgReadHeartRate	(EcgDsc.c)
+  000048BF 00000001 .rodata CmdEcgIsNewDataAvailable	(EcgDsc.c)
+  000048C0 00000001 .rodata CmdEcgDiagnosticModeReadData	(EcgDsc.c)
+  000048C1 00000001 .rodata CmdEcgDiagnosticModeReadData1	(EcgDsc.c)
+  000048C2 00000001 .rodata CmdEcgDiagnosticModeReadData2	(EcgDsc.c)
+  000048C4 00000014 .rodata EcgDscStateMachine	(EcgDsc.c)
+  000048D8 00000008 .rodata EcgStateMachine	(Ecg.c)
+  000048E0 00000014 .rodata Ecg_Events	(ekg.c)
+  000048F4 00000014 .rodata EcgDsc_Events	(ekg.c)
+  00004908 00000014 .rodata EcgFir_Events	(ekg.c)
+  0000491C 000000AC .rodata ExecuteCommandReq	(ekg.c)
+  000049C8 0000000A .rodata AmpGain	(ekg.c)
+  000049D4 00000008 .rodata @163	(usb_dci.c)
+  000049DC 00000008 .rodata EcgFirStateMachine	(EcgFir.c)
+  000049E4 000000D0 .rodata i32EcgFilterCoefs	(EcgFir.c)
+  00004AB4 00000324 .rodata i32BrFilterCoefs	(EcgFir.c)
+  00004DD8 0000000A .rodata MMAmpGain	(HeartRate.c)
+#>00004DE4          ___ROM_AT (linker command file)
+#>00004DE4          ___DATA_ROM (linker command file)
+
+# .usb_bdt
+#>00800000          __BDT_BASE (linker command file)
+  00800000 00000400 .usb_bdt g_Mem	(usb_dci.c)
+#>00800400          __BDT_END (linker command file)
+
+# .data
+#>00800400          ___DATA_RAM (linker command file)
+#>00800400          __exception_table_start__ (linker command file)
+# Exception index
+  00800400 00000000         Exception Table Index	()
+#>00800400          __exception_table_end__ (linker command file)
+#>00800400          ___sinit__ (linker command file)
+# Linker generated symbols
+  00800400 00000004         static initializer	(linker generated)
+#>00800404          __START_DATA (linker command file)
+#>00800404          __END_DATA (linker command file)
+#>00800404          __START_SDATA (linker command file)
+  00800404 00000001 .sdata  kbi_debounce_tmr	(main.c)
+  00800405 00000007 .sdata  g_line_coding	(usb_descriptor.c)
+  0080040C 00000001 .sdata  @LOCAL@StateReadingData__Fv@previousPacketId@1	(EcgDsc.c)
+  0080040D 00000001 .sdata  u8Gain_index	(ekg.c)
+  0080040E 0000000A .sdata  g_serial_state_buf	(usb_cdc_pstn.c)
+  00800418 00000001 .sdata  g_trf_direction	(usb_dci.c)
+  00800419 00000001 .sdata  @LOCAL@vfnEcgFirStateMeasuring__Fv@u8BufferActualPosition	(EcgFir.c)
+  0080041A 00000001 .sdata  @LOCAL@vfnEcgFirStateMeasuring__Fv@u8BrfActualPosition@0	(EcgFir.c)
+  0080041B 00000001 .sdata  @LOCAL@vfnEcgFirStateMeasuring__Fv@u8FilteredDataActualPosition@1	(EcgFir.c)
+  0080041C 00000002 .sdata  Sample_compare	(HeartRate.c)
+  0080041E 00000002 .sdata  Min_value	(HeartRate.c)
+  00800420 00000001 .sdata  u8Gain_index	(HeartRate.c)
+#>00800424          __END_SDATA (linker command file)
+#>00800424          ___DATA_END (linker command file)
+#>00800424          __SDA_BASE (linker command file)
+
+# .bss
+#>00800424          ___BSS_START (linker command file)
+#>00800424          __START_SBSS (linker command file)
+  00800424 00000028 .sbss   g_TimerObjectArray	(tpm.c)
+  0080044C 00000001 .sbss   kbi_stat	(main.c)
+  0080044D 00000001 .sbss   start_kbi_debounce_tmr	(main.c)
+  0080044E 00000001 .sbss   gu8IICV1ActualState	(IICV1Driver.c)
+  0080044F 00000001 .sbss   gu8IICV1PreviousState	(IICV1Driver.c)
+  00800450 00000001 .sbss   gu8Flags	(IICV1Driver.c)
+  00800451 00000001 .sbss   gu8SizeIn	(IICV1Driver.c)
+  00800454 00000004 .sbss   gpu8DataIn	(IICV1Driver.c)
+  00800458 00000001 .sbss   gu8SizeOut	(IICV1Driver.c)
+  0080045C 00000004 .sbss   gpu8DataOut	(IICV1Driver.c)
+  00800460 00000001 .sbss   gu8SlaveAddress	(IICV1Driver.c)
+  00800461 00000001 .sbss   _IICDrvStatus	(IICV1Driver.c)
+  00800462 00000002 .sbss   g_abstract_state	(usb_descriptor.c)
+  00800464 00000002 .sbss   g_country_code	(usb_descriptor.c)
+  00800466 00000001 .sbss   g_alternate_interface	(usb_descriptor.c)
+  00800468 00000004 .sbss   g_framework_callback	(usb_framework.c)
+  0080046C 00000004 .sbss   g_other_req_callback	(usb_framework.c)
+  00800470 00000020 .sbss   ext_req_to_host	(usb_framework.c)
+  00800490 00000001 .sbss   g_assigned_address	(usb_framework.c)
+  00800492 00000002 .sbss   g_std_framework_data	(usb_framework.c)
+  00800494 00000008 .sbss   g_setup_pkt	(usb_framework.c)
+  0080049C 00000001 .sbss   EcgDscActualEvent	(EcgDsc.c)
+  0080049D 00000001 .sbss   DscIsReady	(EcgDsc.c)
+  0080049E 00000001 .sbss   @LOCAL@StateReadingData__Fv@IsNewDataAvailable	(EcgDsc.c)
+  0080049F 00000001 .sbss   @LOCAL@StateReadingData__Fv@actualPacketId@0	(EcgDsc.c)
+  008004A0 00000001 .sbss   ErrorCounter	(EcgDsc.c)
+  008004A1 00000001 .sbss   EcgDsc_HeartRate	(EcgDsc.c)
+  008004A2 00000044 .sbss   DataFromDsc	(EcgDsc.c)
+  008004E6 00000001 .sbss   CommunicationAttempts	(EcgDsc.c)
+  008004E7 00000001 .sbss   TimerWaitForDscIndex	(EcgDsc.c)
+  008004E8 00000008 .sbss   TimerWaitForDsc	(EcgDsc.c)
+  008004F0 00000001 .sbss   EcgDscActualSubState	(EcgDsc.c)
+  008004F1 00000001 .sbss   EcgDscActualState	(EcgDsc.c)
+  008004F2 00000001 .sbss   EcgDscIsHeartRateMode	(EcgDsc.c)
+  008004F3 00000001 .sbss   TimerEcgDscReadDscIndex	(EcgDsc.c)
+  008004F4 00000008 .sbss   TimerEcgDscReadDsc	(EcgDsc.c)
+  008004FC 00000001 .sbss   Ecg_HeartRate	(Ecg.c)
+  008004FD 00000001 .sbss   QRSFound	(Ecg.c)
+  008004FE 00000002 .sbss   EcgFirstSample	(Ecg.c)
+  00800500 00000002 .sbss   EcgSecondSample	(Ecg.c)
+  00800502 00000002 .sbss   EcgThirdSample	(Ecg.c)
+  00800504 00000002 .sbss   samplesBetweenPulses	(Ecg.c)
+  00800506 00000001 .sbss   EcgActualState	(Ecg.c)
+  00800507 00000001 .sbss   EcgActualEvent	(Ecg.c)
+  00800508 00000001 .sbss   IsHeartRateMode	(Ecg.c)
+  0080050C 00000004 .sbss   IsNewEcgSampleReady	(Ecg.c)
+  00800510 00000002 .sbss   PulseDetectedWatchDog	(Ecg.c)
+  00800512 00000001 .sbss   SampleCounter	(Ecg.c)
+  00800513 00000001 .sbss   @LOCAL@SendGraphDataToPc__Fv@actualPosition	(Ecg.c)
+  00800514 00000002 .sbss   @LOCAL@CalculateHeartRateMedian__Fv@Ecg_HeartRate_MedianSum	(Ecg.c)
+  00800516 00000001 .sbss   @LOCAL@CalculateHeartRateMedian__Fv@median_counter@0	(Ecg.c)
+  00800518 00000002 .sbss   median_val	(Ecg.c)
+  0080051A 00000002 .sbss   temp_var	(Ecg.c)
+  0080051C 0000001E .sbss   median_array	(Ecg.c)
+  0080053A 00000001 .sbss   j_index	(Ecg.c)
+  0080053B 00000001 .sbss   i_index	(Ecg.c)
+  0080053C 00000001 .sbss   TimerEcgSampleAdcIndex	(Ecg.c)
+  00800540 00000008 .sbss   TimerEcgSampleAdc	(Ecg.c)
+  00800548 00000018 .sbss   EcgSignal	(Ecg.c)
+  00800560 00000018 .sbss   FeedbackSignal	(Ecg.c)
+  00800578 00000001 .sbss   IsEcgSignalReady	(Ecg.c)
+  00800579 00000001 .sbss   HeartBeatOcurred	(Ecg.c)
+  0080057A 0000001E .sbss   CopyOfEcgHeartRateArray	(Ecg.c)
+  00800598 0000001E .sbss   EcgHeartRateArray	(Ecg.c)
+  008005B6 00000002 .sbss   RealTimeHeartRate	(Ecg.c)
+  008005B8 00000040 .sbss   EcgDataBuffer	(Ecg.c)
+  008005F8 00000001 .sbss   start_app	(ekg.c)
+  008005F9 00000001 .sbss   start_transactions	(ekg.c)
+  008005FA 00000002 .sbss   u16Debounce	(ekg.c)
+  008005FC 00000002 .sbss   @LOCAL@EcgDiagnosticModeNewDataReadyInd__Fv@IdNumber	(ekg.c)
+  008005FE 00000001 .sbss   ActualMeasurement	(ekg.c)
+  008005FF 00000001 .sbss   g_send_size	(ekg.c)
+  00800600 00000001 .sbss   g_recv_size	(ekg.c)
+  00800601 00000060 .sbss   g_curr_send_buf	(ekg.c)
+  00800661 00000060 .sbss   g_curr_recv_buf	(ekg.c)
+  008006C4 00000004 .sbss   g_class_callback	(usb_class.c)
+  008006C8 00000002 .sbss   g_device_state_before_suspend	(usb_class.c)
+  008006CC 00000004 .sbss   g_cdc_class_callback	(usb_cdc.c)
+  008006D0 00000004 .sbss   g_vendor_req_callback	(usb_cdc.c)
+  008006D4 0000009C .sbss   g_cdc_ep	(usb_cdc.c)
+  00800770 00000004 .sbss   g_pstn_callback	(usb_cdc_pstn.c)
+  00800774 00000001 .sbss   g_dte_present	(usb_cdc_pstn.c)
+  00800775 00000001 .sbss   g_dte_status	(usb_cdc_pstn.c)
+  00800776 00000002 .sbss   g_break_duration	(usb_cdc_pstn.c)
+  00800778 00000001 .sbss   g_current_interface	(usb_cdc_pstn.c)
+  00800779 00000001 .sbss   g_uart_bitmap	(usb_cdc_pstn.c)
+  0080077A 00000001 .sbss   g_EPn	(usb_driver.c)
+  0080077B 00000001 .sbss   g_EPn_max	(usb_driver.c)
+  0080077C 00000020 .sbss   g_usb_ep_status	(usb_driver.c)
+  0080079C 0000000E .sbss   g_usb_component_status	(usb_driver.c)
+  008007AC 00000060 .sbss   g_usb_CB	(usb_driver.c)
+  0080080C 00000004 .sbss   g_bdtmap	(usb_dci.c)
+  00800810 00000004 .sbss   g_bdt_address	(usb_dci.c)
+  00800814 00000001 .sbss   g_dci_controller_Id	(usb_dci.c)
+  00800815 00000240 .sbss   g_bdt_elem	(usb_dci.c)
+  00800A55 00000001 .sbss   usb_int_disable	(exceptions.c)
+  00800A56 00000001 .sbss   usb_int_en_copy	(exceptions.c)
+  00800A58 00000040 .sbss   au16EcgFilteredData	(EcgFir.c)
+  00800A98 000000CC .sbss   a32ADC_Buffer	(EcgFir.c)
+  00800B64 00000320 .sbss   a32BR_Buffer	(EcgFir.c)
+  00800E84 00000001 .sbss   @LOCAL@vfnEcgFirStateMeasuring__Fv@u8ActualSubState@2	(EcgFir.c)
+  00800E88 00000004 .sbss   @LOCAL@vfnEcgFirStateMeasuring__Fv@u32FilterResult@3	(EcgFir.c)
+  00800E8C 00000001 .sbss   u8EcgFirActualState	(EcgFir.c)
+  00800E8D 00000001 .sbss   u8Tpm1Ch0Flag	(MM_Timers.c)
+  00800E8E 00000001 .sbss   HR_buffer_index	(HeartRate.c)
+  00800E90 00000002 .sbss   Averaged_HR	(HeartRate.c)
+  00800E92 00000002 .sbss   HR_watchdog	(HeartRate.c)
+  00800E94 00000002 .sbss   Sample_number	(HeartRate.c)
+  00800E96 00000002 .sbss   Max_value	(HeartRate.c)
+  00800E98 00000001 .sbss   msOccured	(HeartRate.c)
+  00800E9A 00000002 .sbss   OldPulseTime	(HeartRate.c)
+  00800E9C 00000002 .sbss   NewPulseTime	(HeartRate.c)
+  00800E9E 00000002 .sbss   BeatsPeriod	(HeartRate.c)
+  00800EA0 00000002 .sbss   Amplitude_value	(HeartRate.c)
+  00800EA2 0000000C .sbss   HR_buffer	(HeartRate.c)
+  00800EAE 00000002 .sbss   ThirdSample	(HeartRate.c)
+  00800EB0 00000002 .sbss   SecondSample	(HeartRate.c)
+  00800EB2 00000002 .sbss   FirstSample	(HeartRate.c)
+#>00800EB4          __END_SBSS (linker command file)
+#>00800EB4          __START_BSS (linker command file)
+  00800EB4 00000004 .bss    __global_destructor_chain	(librt.a cf_staticinitia)
+#>00800EB8          __END_BSS (linker command file)
+#>00800EB8          ___BSS_END (linker command file)
+
+# .custom
+#>00800EB8          ___HEAP_START (linker command file)
+#>00800EB8          ___heap_addr (linker command file)
+#>008012B8          ___HEAP_END (linker command file)
+#>008012B8          ___SP_END (linker command file)
+#>008016B8          ___SP_INIT (linker command file)
+#>008016B8          __SP_INIT (linker command file)
+#>008016B8          ___SP_AFTER_RESET (linker command file)
+#>00004E08          _romp_at (linker command file)
+
+# .romp
+#>00004E08          __S_romp (linker command file)
+
+
+# Memory map:
+  v_addr   p_addr   size     name
+  00000000 00000000 00000004 .abs_vector_0 abs_vector_0
+  00000004 00000004 00000004 .abs_vector_1 abs_vector_1
+  00000008 00000008 00000004 .abs_vector_2 abs_vector_2
+  0000000C 0000000C 00000004 .abs_vector_3 abs_vector_3
+  00000010 00000010 00000004 .abs_vector_4 abs_vector_4
+  00000014 00000014 00000004 .abs_vector_5 abs_vector_5
+  00000018 00000018 00000004 .abs_vector_6 abs_vector_6
+  0000001C 0000001C 00000004 .abs_vector_7 abs_vector_7
+  00000020 00000020 00000004 .abs_vector_8 abs_vector_8
+  00000024 00000024 00000004 .abs_vector_9 abs_vector_9
+  00000028 00000028 00000004 .abs_vector_10 abs_vector_10
+  0000002C 0000002C 00000004 .abs_vector_11 abs_vector_11
+  00000030 00000030 00000004 .abs_vector_12 abs_vector_12
+  00000034 00000034 00000004 .abs_vector_13 abs_vector_13
+  00000038 00000038 00000004 .abs_vector_14 abs_vector_14
+  0000003C 0000003C 00000004 .abs_vector_15 abs_vector_15
+  00000040 00000040 00000004 .abs_vector_16 abs_vector_16
+  00000044 00000044 00000004 .abs_vector_17 abs_vector_17
+  00000048 00000048 00000004 .abs_vector_18 abs_vector_18
+  0000004C 0000004C 00000004 .abs_vector_19 abs_vector_19
+  00000050 00000050 00000004 .abs_vector_20 abs_vector_20
+  00000054 00000054 00000004 .abs_vector_21 abs_vector_21
+  00000058 00000058 00000004 .abs_vector_22 abs_vector_22
+  0000005C 0000005C 00000004 .abs_vector_23 abs_vector_23
+  00000060 00000060 00000004 .abs_vector_24 abs_vector_24
+  00000064 00000064 00000004 .abs_vector_25 abs_vector_25
+  00000068 00000068 00000004 .abs_vector_26 abs_vector_26
+  0000006C 0000006C 00000004 .abs_vector_27 abs_vector_27
+  00000070 00000070 00000004 .abs_vector_28 abs_vector_28
+  00000074 00000074 00000004 .abs_vector_29 abs_vector_29
+  00000078 00000078 00000004 .abs_vector_30 abs_vector_30
+  0000007C 0000007C 00000004 .abs_vector_31 abs_vector_31
+  00000080 00000080 00000004 .abs_vector_32 abs_vector_32
+  00000084 00000084 00000004 .abs_vector_33 abs_vector_33
+  00000088 00000088 00000004 .abs_vector_34 abs_vector_34
+  0000008C 0000008C 00000004 .abs_vector_35 abs_vector_35
+  00000090 00000090 00000004 .abs_vector_36 abs_vector_36
+  00000094 00000094 00000004 .abs_vector_37 abs_vector_37
+  00000098 00000098 00000004 .abs_vector_38 abs_vector_38
+  0000009C 0000009C 00000004 .abs_vector_39 abs_vector_39
+  000000A0 000000A0 00000004 .abs_vector_40 abs_vector_40
+  000000A4 000000A4 00000004 .abs_vector_41 abs_vector_41
+  000000A8 000000A8 00000004 .abs_vector_42 abs_vector_42
+  000000AC 000000AC 00000004 .abs_vector_43 abs_vector_43
+  000000B0 000000B0 00000004 .abs_vector_44 abs_vector_44
+  000000B4 000000B4 00000004 .abs_vector_45 abs_vector_45
+  000000B8 000000B8 00000004 .abs_vector_46 abs_vector_46
+  000000BC 000000BC 00000004 .abs_vector_47 abs_vector_47
+  000000C0 000000C0 00000004 .abs_vector_48 abs_vector_48
+  000000C4 000000C4 00000004 .abs_vector_49 abs_vector_49
+  000000C8 000000C8 00000004 .abs_vector_50 abs_vector_50
+  000000CC 000000CC 00000004 .abs_vector_51 abs_vector_51
+  000000D0 000000D0 00000004 .abs_vector_52 abs_vector_52
+  000000D4 000000D4 00000004 .abs_vector_53 abs_vector_53
+  000000D8 000000D8 00000004 .abs_vector_54 abs_vector_54
+  000000DC 000000DC 00000004 .abs_vector_55 abs_vector_55
+  000000E0 000000E0 00000004 .abs_vector_56 abs_vector_56
+  000000E4 000000E4 00000004 .abs_vector_57 abs_vector_57
+  000000E8 000000E8 00000004 .abs_vector_58 abs_vector_58
+  000000EC 000000EC 00000004 .abs_vector_59 abs_vector_59
+  000000F0 000000F0 00000004 .abs_vector_60 abs_vector_60
+  000000F4 000000F4 00000004 .abs_vector_61 abs_vector_61
+  000000F8 000000F8 00000004 .abs_vector_62 abs_vector_62
+  000000FC 000000FC 00000004 .abs_vector_63 abs_vector_63
+  00000100 00000100 00000004 .abs_vector_64 abs_vector_64
+  00000104 00000104 00000004 .abs_vector_65 abs_vector_65
+  00000108 00000108 00000004 .abs_vector_66 abs_vector_66
+  0000010C 0000010C 00000004 .abs_vector_67 abs_vector_67
+  00000110 00000110 00000004 .abs_vector_68 abs_vector_68
+  00000114 00000114 00000004 .abs_vector_69 abs_vector_69
+  00000118 00000118 00000004 .abs_vector_70 abs_vector_70
+  0000011C 0000011C 00000004 .abs_vector_71 abs_vector_71
+  00000120 00000120 00000004 .abs_vector_72 abs_vector_72
+  00000124 00000124 00000004 .abs_vector_73 abs_vector_73
+  00000128 00000128 00000004 .abs_vector_74 abs_vector_74
+  0000012C 0000012C 00000004 .abs_vector_75 abs_vector_75
+  00000130 00000130 00000004 .abs_vector_76 abs_vector_76
+  00000134 00000134 00000004 .abs_vector_77 abs_vector_77
+  00000138 00000138 00000004 .abs_vector_78 abs_vector_78
+  0000013C 0000013C 00000004 .abs_vector_79 abs_vector_79
+  00000140 00000140 00000004 .abs_vector_80 abs_vector_80
+  00000144 00000144 00000004 .abs_vector_81 abs_vector_81
+  00000148 00000148 00000004 .abs_vector_82 abs_vector_82
+  0000014C 0000014C 00000004 .abs_vector_83 abs_vector_83
+  00000150 00000150 00000004 .abs_vector_84 abs_vector_84
+  00000154 00000154 00000004 .abs_vector_85 abs_vector_85
+  00000158 00000158 00000004 .abs_vector_86 abs_vector_86
+  0000015C 0000015C 00000004 .abs_vector_87 abs_vector_87
+  00000160 00000160 00000004 .abs_vector_88 abs_vector_88
+  00000164 00000164 00000004 .abs_vector_89 abs_vector_89
+  00000168 00000168 00000004 .abs_vector_90 abs_vector_90
+  0000016C 0000016C 00000004 .abs_vector_91 abs_vector_91
+  00000170 00000170 00000004 .abs_vector_92 abs_vector_92
+  00000174 00000174 00000004 .abs_vector_93 abs_vector_93
+  00000178 00000178 00000004 .abs_vector_94 abs_vector_94
+  0000017C 0000017C 00000004 .abs_vector_95 abs_vector_95
+  00000180 00000180 00000004 .abs_vector_96 abs_vector_96
+  00000184 00000184 00000004 .abs_vector_97 abs_vector_97
+  00000188 00000188 00000004 .abs_vector_98 abs_vector_98
+  0000018C 0000018C 00000004 .abs_vector_99 abs_vector_99
+  00000190 00000190 00000004 .abs_vector_100 abs_vector_100
+  00000194 00000194 00000004 .abs_vector_101 abs_vector_101
+  00000198 00000198 00000004 .abs_vector_102 abs_vector_102
+  0000019C 0000019C 00000004 .abs_vector_103 abs_vector_103
+  000001A0 000001A0 00000004 .abs_vector_104 abs_vector_104
+  000001A4 000001A4 00000004 .abs_vector_105 abs_vector_105
+  000001A8 000001A8 00000004 .abs_vector_106 abs_vector_106
+  000001AC 000001AC 00000004 .abs_vector_107 abs_vector_107
+  000001B0 000001B0 00000004 .abs_vector_108 abs_vector_108
+  000001B4 000001B4 00000004 .abs_vector_109 abs_vector_109
+  000001B8 000001B8 00000004 .abs_vector_110 abs_vector_110
+  000001BC 000001BC 00000004 .abs_vector_111 abs_vector_111
+  000001C0 000001C0 00000004 .abs_vector_112 abs_vector_112
+  000001C4 000001C4 00000004 .abs_vector_113 abs_vector_113
+  000001C8 000001C8 00000004 .abs_vector_114 abs_vector_114
+  0000040A 0000040A 00000001 .abs_checksum_bypass abs_checksum_bypass
+  0000040F 0000040F 00000001 .abs_sec   abs_sec
+  00000410 00000410 00000000 .code      code
+  00000410 00000410 000049D4 .text      code
+  00020410 00020410 0001FBF0            code_00020410
+  00800000 00800000 00000000 .userram   userram
+  00800000 00800000 00000400 .usb_bdt   userram
+  00800400 00004DE4 00000024 .data      userram
+  00800424 00800424 00000A94 .bss       userram
+  00800EB8 00800EB8 00000000 .custom    userram
+  00800EB8 00004E08 00000018 .romp      userram
+
+# Link start time: Tue Apr 16 18:58:29 2013
+# Link end time: Tue Apr 16 18:58:29 2013
