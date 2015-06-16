@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" onKeyPressed="#enterForLoggin" prefHeight="167.0" prefWidth="205.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.upslp.FXMLLogginController">
+   <children>
+      <Button fx:id="btnLoggin" layoutX="47.0" layoutY="110.0" mnemonicParsing="false" onAction="#inicioSesion" text="Loggin" />
+      <Button fx:id="btnCancel" layoutX="118.0" layoutY="110.0" mnemonicParsing="false" onAction="#actionCancelar" text="Cancel" />
+      <TextField fx:id="txtUsuario" layoutX="34.0" layoutY="31.0" promptText="usuario" />
+      <PasswordField fx:id="txtPassword" layoutX="34.0" layoutY="66.0" promptText="contraseña" />
+   </children>
+</AnchorPane>

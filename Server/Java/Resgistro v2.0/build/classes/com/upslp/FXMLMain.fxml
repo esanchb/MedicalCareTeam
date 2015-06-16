@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane id="AnchorPane" fx:id="main" prefHeight="379.0" prefWidth="700.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.upslp.FXMLMainController">
+   <children>
+      <TextField fx:id="txtXBuscar" layoutX="14.0" layoutY="47.0" onKeyPressed="#BuscarPteKeyPress" prefHeight="29.0" prefWidth="202.0" promptText="Nombre/ID" />
+      <Label fx:id="etAdvise" layoutX="306.0" layoutY="53.0" prefHeight="17.0" prefWidth="375.0" />
+      <Button fx:id="btBuscar" layoutX="226.0" layoutY="49.0" onAction="#ClickBuscar" text="Search" />
+      
+      
+      
+      <TableView fx:id="tbPacientes" layoutX="15.0" layoutY="110.0" prefHeight="250.0" prefWidth="670.0" AnchorPane.leftAnchor="15.0" AnchorPane.rightAnchor="15.0">
+        <columns>
+          <TableColumn prefWidth="100.0" text="C2" visible="false" />
+        </columns>
+         
+      </TableView>
+      <Button fx:id="btnLoggout" layoutX="629.0" layoutY="14.0" mnemonicParsing="false" onAction="#actionLoggout" text="Loggout" />
+      <Button fx:id="btGraf" layoutX="629.0" layoutY="64.0" mnemonicParsing="false" onMouseClicked="#muestraGrafica" text="Graficar" />
+      
+   </children>
+</AnchorPane>
